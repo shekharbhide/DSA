@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "outline.problems.colors": true,
+    "problems.showCurrentInStatus": true,
+    "audioCues.lineHasError": "auto"
+}
